@@ -1,0 +1,6 @@
+* [**理财 - financing**](about-blog/为什么要建一个自己的网站.md)
+* [**生活 - life**](about-blog/index)
+* [**杂文 - essay**](about-blog/index)
+* [**文摘 - digest**](about-blog/index)
+* [**关于博客 - about-blog**](about-blog/index)
+    * [为什么要建一个自己的网站](about-blog/为什么要建一个自己的网站.md)
