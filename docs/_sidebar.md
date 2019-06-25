@@ -1,5 +1,5 @@
 -   [**理财 - financing**](financing/index.md)
-    -   [中短债基金不完全研究](financing/中短债基金不完全研究.md)
+    -   [中短债基金不完全研究](financing/zdz-survey.md)
 -   [**生活 - life**](life/index.md)
 -   [**杂文 - essay**](essay/index.md)
 -   [**文摘 - digest**](digest/index.md)
