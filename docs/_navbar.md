@@ -3,4 +3,4 @@
     * [生活](life/index.md)
     * [杂文](essay/index.md)
     * [文摘](digest/index.md)
-    * [关于](about-blog/index.md)
+    * [关于](about/index.md)
