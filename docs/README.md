@@ -10,4 +10,4 @@
 
 > [**文摘 - digest**](./digest/index.md)
 
-> [**关于博客 - about-blog**](./about-blog/index.md)
+> [**关于 - about**](./about/index.md)
