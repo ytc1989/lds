@@ -1,5 +1,6 @@
 -   [**理财 - financing**](financing/index.md)
     -   [中短债基金不完全研究](financing/zdz-survey.md)
+    -   [我们凭什么在市场里赚钱](/financing/why-we-can-win.md)
 -   [**生活 - life**](life/index.md)
 -   [**杂文 - essay**](essay/index.md)
 -   [**文摘 - digest**](digest/index.md)
