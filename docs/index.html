@@ -11,6 +11,11 @@
         />
         <!-- vue主题 -->
         <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+        <style type="text/css">
+            .img-ytc-max {
+                max-width: 375px;
+            }
+        </style>
     </head>
     <body>
         <div id="app">正在加载...</div>
@@ -24,9 +29,19 @@
             };
         </script>
         <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+        <!-- 离线模式 -->
+        <script>
+            if (typeof navigator.serviceWorker !== "undefined") {
+                navigator.serviceWorker.register("sw.js");
+            }
+        </script>
         <!-- 检索插件 -->
         <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
         <!-- 底部next导航 -->
         <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+        <!-- emoji -->
+        <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+        <!-- 图片缩放 -->
+        <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
     </body>
 </html>
