@@ -3,6 +3,7 @@
     -   [我们凭什么在市场里赚钱](financing/why-we-can-win.md)
     -   [为什么我现在还在卖出沪深 300 指数](financing/why-sell-hs300.md)
 -   [**生活 - life**](life/index.md)
+    -   [富不过三代？！](life/gamble.md)
 -   [**杂文 - essay**](essay/index.md)
 -   [**文摘 - digest**](digest/index.md)
     -   [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
