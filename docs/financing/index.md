@@ -7,3 +7,7 @@
 > [为什么我现在还在卖出沪深 300 指数](/financing/why-sell-hs300.md)
 
 > [一个热卖的红利基金又出了个低费用的 C 类](/financing/zzhl-c-plus.md)
+
+> [找一个安全垫够厚的大盘鸡埋伏起来](/financing/xgdp-buy.md)
+
+> [选择沪深 300 其实是一种无奈](/financing/zz100-core-assets.md)
