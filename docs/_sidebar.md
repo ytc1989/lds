@@ -5,6 +5,8 @@
     -   [一个热卖的红利基金又出了个低费用的 C 类](financing/zzhl-c-plus.md)
     -   [选择沪深 300 其实是一种无奈](financing/zz100-core-assets.md)
     -   [找一个安全垫够厚的大盘鸡埋伏起来](financing/xgdp-buy.md)
+    -   [低费率真的那么重要吗？](financing/lower-rate-important.md)
+    -   [医药‘龙头’指数也出 C 类联接了](financing/hs300yy-c-plus.md)
 -   [**生活 - life**](life/index.md)
     -   [富不过三代？！](life/gamble.md)
 -   [**杂文 - essay**](essay/index.md)
