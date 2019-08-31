@@ -11,6 +11,7 @@
     -   [富不过三代？！](life/gamble.md)
 -   [**杂文 - essay**](essay/index.md)
     -   [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
+    -   [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
 -   [**文摘 - digest**](digest/index.md)
     -   [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     -   [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
