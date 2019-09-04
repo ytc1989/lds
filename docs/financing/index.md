@@ -15,3 +15,5 @@
 > [低费率真的那么重要吗？](/financing/lower-rate-important.md)
 
 > [医药‘龙头’指数也出 C 类联接了](/financing/hs300yy-c-plus.md)
+
+> [平银转债强赎给我的一个思考](/financing/pyzz-think.md)

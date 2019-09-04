@@ -7,6 +7,7 @@
     -   [找一个安全垫够厚的大盘鸡埋伏起来](financing/xgdp-buy.md)
     -   [低费率真的那么重要吗？](financing/lower-rate-important.md)
     -   [医药‘龙头’指数也出 C 类联接了](financing/hs300yy-c-plus.md)
+    -   [平银转债强赎给我的一个思考](financing/pyzz-think.md)
 -   [**生活 - life**](life/index.md)
     -   [富不过三代？！](life/gamble.md)
 -   [**杂文 - essay**](essay/index.md)
