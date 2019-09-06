@@ -17,3 +17,5 @@
 > [医药‘龙头’指数也出 C 类联接了](/financing/hs300yy-c-plus.md)
 
 > [平银转债强赎给我的一个思考](/financing/pyzz-think.md)
+
+> [不做多中国，我其它选择？](/financing/long-china.md)
