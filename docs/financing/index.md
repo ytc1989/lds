@@ -18,4 +18,4 @@
 
 > [平银转债强赎给我的一个思考](/financing/pyzz-think.md)
 
-> [不做多中国，我其它选择？](/financing/long-china.md)
+> [不做多中国，我还有其它选择？](/financing/long-china.md)
