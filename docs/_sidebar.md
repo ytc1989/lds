@@ -9,6 +9,7 @@
     -   [医药‘龙头’指数也出 C 类联接了](financing/hs300yy-c-plus.md)
     -   [平银转债强赎给我的一个思考](financing/pyzz-think.md)
     -   [不做多中国，我还有其它选择？](financing/long-china.md)
+    -   [跑赢创业板好像也没那么难](financing/ccz-profile.md)
 -   [**生活 - life**](life/index.md)
     -   [富不过三代？！](life/gamble.md)
 -   [**杂文 - essay**](essay/index.md)
