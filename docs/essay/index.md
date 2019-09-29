@@ -6,4 +6,6 @@
 
 > [千里之行，始于华宝](/essay/visit-fsfund-1.md)
 
-> [老豆-Y计划2019版（常规汇报 003）](essay/ld-yplan2019-003.md)
+> [老豆-Y计划2019版（常规汇报 003）](/essay/ld-yplan2019-003.md)
+
+> [薪火相传（常规汇报 004）](/essay/xhxc-004.md)
