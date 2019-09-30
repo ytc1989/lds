@@ -9,3 +9,5 @@
 > [老豆-Y计划2019版（常规汇报 003）](/essay/ld-yplan2019-003.md)
 
 > [薪火相传（常规汇报 004）](/essay/xhxc-004.md)
+
+> [走进国泰](/essay/visit-gtfund.md)
