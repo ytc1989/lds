@@ -10,4 +10,6 @@
 
 > [薪火相传（常规汇报 004）](/essay/xhxc-004.md)
 
-> [走进国泰](/essay/visit-gtfund.md)
+> [核心资产是结果，不代表未来！](/essay/visit-gtfund.md)
+
+> [大王让我来巡山，我却给中邮看风水](/essay/visit-postfund.md)
