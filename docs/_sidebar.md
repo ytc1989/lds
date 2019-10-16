@@ -14,6 +14,7 @@
 -   [**生活 - life**](life/index.md)
     -   [富不过三代？！](life/gamble.md)
     -   [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
+    -   [举国欢庆是大家，陪伴至亲是小家。](life/2019gqjw.md)
 -   [**杂文 - essay**](essay/index.md)
     -   [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     -   [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
