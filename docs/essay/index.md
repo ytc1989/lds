@@ -13,3 +13,7 @@
 > [核心资产是结果，不代表未来！](/essay/visit-gtfund.md)
 
 > [大王让我来巡山，我却给中邮看风水](/essay/visit-postfund.md)
+
+> [薪火相传（常规汇报 005）](/essay/xhxc-005.md)
+
+> [招财大牛猫也有‘失蹄’的时候](/essay/diss-zcdnm.md)
