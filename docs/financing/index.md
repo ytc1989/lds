@@ -23,3 +23,5 @@
 > [跑赢创业板好像也没那么难](/financing/ccz-profile.md)
 
 > [一只稳定的增强基金](/financing/byzz100.md)
+
+> [这小伙子今天10岁了](/financing/cyb-10th.md)
