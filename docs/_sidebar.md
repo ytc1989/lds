@@ -12,6 +12,7 @@
     - [跑赢创业板好像也没那么难](financing/ccz-profile.md)
     - [一只稳定的增强基金](financing/byzz100.md)
     - [这小伙子今天10岁了](/financing/cyb-10th.md)
+    - [好久没聊红利了](/financing/hl-family.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
