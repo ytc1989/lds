@@ -31,3 +31,5 @@
 > [分享一个捡漏的机会](financing/hjzz.md)
 
 > [易方达的20BP战队遇到了新对手](financing/dc-sz50.md)
+
+> [AI + 5G 智能连接世界](financing/AIetf-info.md)
