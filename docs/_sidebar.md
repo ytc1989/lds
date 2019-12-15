@@ -33,6 +33,7 @@
     - [薪火相传（常规汇报 006）](essay/xhxc-006.md)
     - [走进华安基金之胡宜斌](essay/visit-hafund-hyb.md)
     - [你更应该关心能不能从中赚钱？](essay/invest-senti-nz.md)
+    - [薪火相传（常规汇报 007）](essay/xhxc-007.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
