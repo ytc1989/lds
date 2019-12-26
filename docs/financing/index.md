@@ -34,3 +34,5 @@
 
 > [AI + 5G 智能连接世界](/financing/AIetf-info.md)
 
+> [跑赢创业板好像也没那么难（2）](/financing/clc-profile.md)
+

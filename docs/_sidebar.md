@@ -16,6 +16,7 @@
     - [分享一个捡漏的机会](/financing/hjzz.md)
     - [易方达的20BP战队遇到了新对手](/financing/dc-sz50.md)
     - [AI + 5G 智能连接世界](/financing/AIetf-info.md)
+    - [跑赢创业板好像也没那么难（2）](/financing/clc-profile.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
