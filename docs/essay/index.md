@@ -23,3 +23,5 @@
 > [你更应该关心能不能从中赚钱？](/essay/invest-senti-nz.md)
 
 > [薪火相传（常规汇报 007）](/essay/xhxc-007.md)
+
+> [薪火相传（常规汇报 008）](/essay/xhxc-008.md)
