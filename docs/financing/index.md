@@ -36,3 +36,6 @@
 
 > [跑赢创业板好像也没那么难（2）](/financing/clc-profile.md)
 
+> [懒人理财神器体验报告](/financing/alipay-mbt.md)
+
+> [防不胜防的消费贷套路](/financing/consumer-loan.md)
