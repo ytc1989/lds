@@ -19,6 +19,7 @@
     - [跑赢创业板好像也没那么难（2）](/financing/clc-profile.md)
     - [懒人理财神器体验报告](/financing/alipay-mbt.md)
     - [防不胜防的消费贷套路](/financing/consumer-loan.md)
+    - [过年记得把这好东西送给长辈](/financing/haircut-prices.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

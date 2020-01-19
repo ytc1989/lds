@@ -39,3 +39,5 @@
 > [懒人理财神器体验报告](/financing/alipay-mbt.md)
 
 > [防不胜防的消费贷套路](/financing/consumer-loan.md)
+
+> [过年记得把这好东西送给长辈](/financing/haircut-prices.md)
