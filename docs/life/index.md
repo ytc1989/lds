@@ -6,4 +6,6 @@
 
 > [举国欢庆是大家，陪伴至亲是小家](/life/2019gqjw.md)
 
-> [效率小工具-番茄闹钟](life/time-control.md)
+> [效率小工具-番茄闹钟](/life/time-control.md)
+
+> [老豆得知春节延期后的第1天（01-28）](/life/defer-holidays-01.md)
