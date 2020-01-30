@@ -27,6 +27,7 @@
     - [效率小工具-番茄闹钟](life/time-control.md)
     - [老豆得知春节延期后的第1天（01-28）](life/defer-holidays-01.md)
     - [老豆得知春节延期后的第2天（01-29）](/life/defer-holidays-02.md)
+    - [老豆得知春节延期后的第3天（01-30）](/life/defer-holidays-03.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)

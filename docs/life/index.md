@@ -11,3 +11,5 @@
 > [老豆得知春节延期后的第1天（01-28）](/life/defer-holidays-01.md)
 
 > [老豆得知春节延期后的第2天（01-29）](/life/defer-holidays-02.md)
+
+> [老豆得知春节延期后的第3天（01-30）](/life/defer-holidays-03.md)
