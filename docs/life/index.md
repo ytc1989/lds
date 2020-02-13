@@ -19,3 +19,5 @@
 > [老豆得知春节延期后的第5天（02-01）](/life/defer-holidays-05.md)
 
 > [“三、百、良”](/life/sbl.md)
+
+> [买个口罩，还能捡到金子！](/life/buy-mask.md)

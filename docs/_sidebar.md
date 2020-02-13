@@ -31,6 +31,7 @@
     - [老豆得知春节延期后的第4天（01-31）](/life/defer-holidays-04.md)
     - [老豆得知春节延期后的第5天（02-01）](/life/defer-holidays-05.md)
     - [“三、百、良”](/life/sbl.md)
+    - [买个口罩，还能捡到金子！](/life/buy-mask.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
