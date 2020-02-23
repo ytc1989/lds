@@ -21,3 +21,5 @@
 > [“三、百、良”](/life/sbl.md)
 
 > [买个口罩，还能捡到金子！](/life/buy-mask.md)
+
+> [复工后的第一周](/life/rework-first.md)
