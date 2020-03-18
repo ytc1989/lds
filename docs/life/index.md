@@ -25,3 +25,5 @@
 > [复工后的第一周](/life/rework-first.md)
 
 > [三八节，剪个头](/life/38-haircut.md)
+
+> [疫情之后，有没有一个地方你突然很想去？](/life/after-tour.md)
