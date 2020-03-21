@@ -27,3 +27,5 @@
 > [三八节，剪个头](/life/38-haircut.md)
 
 > [疫情之后，有没有一个地方你突然很想去？](/life/after-tour.md)
+
+> [近日关于投资的几点思考](/life/thinkin-covid.md)

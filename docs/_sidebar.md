@@ -35,6 +35,7 @@
     - [复工后的第一周](/life/rework-first.md)
     - [三八节，剪个头](/life/38-haircut.md)
     - [疫情之后，有没有一个地方你突然很想去？](/life/after-tour.md)
+    - [近日关于投资的几点思考](/life/thinkin-covid.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
