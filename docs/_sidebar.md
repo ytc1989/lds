@@ -56,6 +56,7 @@
     - [薪火相传（常规汇报 009）](/essay/xhxc-009.md)
     - [薪火相传（常规汇报 010）](/essay/xhxc-010.md)
     - [薪火相传（常规汇报 011）](/essay/xhxc-011.md)
+    - [薪火相传（常规汇报 012）](/essay/xhxc-012.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
