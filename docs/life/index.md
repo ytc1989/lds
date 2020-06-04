@@ -31,3 +31,5 @@
 > [近日关于投资的几点思考](/life/thinkin-covid.md)
 
 > [取悦自己-0430-序](/life/qyzj-001.md)
+
+> [双休之外的快乐](/life/dobule-happy.md)

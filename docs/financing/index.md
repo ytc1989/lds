@@ -43,3 +43,5 @@
 > [过年记得把这好东西送给长辈](/financing/haircut-prices.md)
 
 > [左手倚天、右手屠龙，它已不是从前那个少年](/financing/clc-ccz.md)
+
+> [新希望乳业参观记](/financing/newhopedairy.md)
