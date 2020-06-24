@@ -33,3 +33,5 @@
 > [取悦自己-0430-序](/life/qyzj-001.md)
 
 > [双休之外的快乐](/life/dobule-happy.md)
+
+> [给你5块钱，2小时内能赚多少？](/life/qyzj-004.md)
