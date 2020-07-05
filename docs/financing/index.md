@@ -45,3 +45,5 @@
 > [左手倚天、右手屠龙，它已不是从前那个少年](/financing/clc-ccz.md)
 
 > [新希望乳业参观记](/financing/newhopedairy.md)
+
+> [刚过而立之年，浅谈‘财务自由’](/financing/talk-cwzy.md)
