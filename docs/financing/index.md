@@ -47,3 +47,11 @@
 > [新希望乳业参观记](/financing/newhopedairy.md)
 
 > [刚过而立之年，浅谈‘财务自由’](/financing/talk-cwzy.md)
+
+> [先锋“帮你投”的第一次调仓](/financing/bnt-info-1th.md)
+
+> [涨了指数却不赚钱？](/financing/szzz-info.md)
+
+> [2800点以下买基金能赚钱么？](/financing/2800-fund-buy.md)
+
+> [嘉实基金的这款投顾产品有收智商税之嫌](/financing/jstg-mbt.md)
