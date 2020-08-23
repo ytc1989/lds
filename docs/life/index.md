@@ -35,3 +35,5 @@
 > [双休之外的快乐](/life/dobule-happy.md)
 
 > [给你5块钱，2小时内能赚多少？](/life/qyzj-004.md)
+
+> [女儿做到了我和我妈均未完成的事情](/life/jy-dad.md)
