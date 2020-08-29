@@ -55,3 +55,5 @@
 > [2800点以下买基金能赚钱么？](/financing/2800-fund-buy.md)
 
 > [嘉实基金的这款投顾产品有收智商税之嫌](/financing/jstg-mbt.md)
+
+> [有哪些基金主要投资新能源车？](/financing/xnyc-etfList.md)
