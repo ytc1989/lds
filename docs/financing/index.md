@@ -57,3 +57,7 @@
 > [嘉实基金的这款投顾产品有收智商税之嫌](/financing/jstg-mbt.md)
 
 > [有哪些基金主要投资新能源车？](/financing/xnyc-etfList.md)
+
+> [走进信也科技：科技，让金融更美好！](/financing/xinye-ppd.md)
+
+> [除了沪深300我们还有哪些宽基可以推荐？](/financing/sz100-info.md)
