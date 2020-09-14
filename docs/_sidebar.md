@@ -28,6 +28,7 @@
     - [2800点以下买基金能赚钱么？](/financing/2800-fund-buy.md)
     - [嘉实基金的这款投顾产品有收智商税之嫌](/financing/jstg-mbt.md)
     - [有哪些基金主要投资新能源车？](/financing/xnyc-etfList.md)
+    - [走进信也科技：科技，让金融更美好！](/financing/xinye-ppd.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
