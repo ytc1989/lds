@@ -52,6 +52,7 @@
     - [给你5块钱，2小时内能赚多少？](/life/qyzj-004.md)
     - [女儿做到了我和我妈均未完成的事情](/life/jy-dad.md)
     - [冤枉了我最爱的人](/life/qyzj-003.md)
+    - [2020国庆见闻](/life/gqjw-2020.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
