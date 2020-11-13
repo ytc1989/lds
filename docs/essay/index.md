@@ -37,3 +37,7 @@
 > [薪火相传（常规汇报 012）](/essay/xhxc-012.md)
 
 > [薪火相传（一周年汇报）](/essay/xhxc-1th.md)
+
+> [给自己的投资生活多一点记录](/essay/invest-node.md)
+
+> [四天涨，周五跌都成惯例了](/essay/week20201113.md)
