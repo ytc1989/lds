@@ -34,6 +34,7 @@
     - [ETF定期分红是一件很“帅气”的事](/financing/yfd-zzhl.md)
     - [最后一公里的柜子算不算新经济？](/financing/xjj-gzjj.md)
     - [下周起人人皆可参与科创板了](/financing/kc50etf-yfd.md)
+    - [双循环下的新兴消费](/financing/haxxxf-info.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

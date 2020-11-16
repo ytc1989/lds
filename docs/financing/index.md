@@ -69,3 +69,5 @@
 > [最后一公里的柜子算不算新经济？](/financing/xjj-gzjj.md)
 
 > [下周起人人皆可参与科创板了](/financing/kc50etf-yfd.md)
+
+> [双循环下的新兴消费](/financing/haxxxf-info.md)
