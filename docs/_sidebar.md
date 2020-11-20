@@ -79,6 +79,7 @@
     - [薪火相传（一周年汇报）](/essay/xhxc-1th.md)
     - [给自己的投资生活多一点记录](/essay/invest-node.md)
     - [四天涨，周五跌都成惯例了](/essay/week20201113.md)
+    - [有些消费只是被延迟了](/essay/week20201120.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
