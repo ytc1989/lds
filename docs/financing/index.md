@@ -71,3 +71,5 @@
 > [下周起人人皆可参与科创板了](/financing/kc50etf-yfd.md)
 
 > [双循环下的新兴消费](/financing/haxxxf-info.md)
+
+> [这次轮到银行了？](/financing/hbyh-value.md)
