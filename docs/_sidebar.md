@@ -82,6 +82,7 @@
     - [四天涨，周五跌都成惯例了](/essay/week20201113.md)
     - [有些消费只是被延迟了](/essay/week20201120.md)
     - [为什么一定要争做中国的‘纳斯达克’？](/essay/thjj-sjs.md)
+    - [生活好了、饭吃得太软](/essay/week20201127.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
