@@ -73,3 +73,5 @@
 > [双循环下的新兴消费](/financing/haxxxf-info.md)
 
 > [这次轮到银行了？](/financing/hbyh-value.md)
+
+> [基金投顾--大资管时代资产配置新动能](/financing/yfd-tg.md)
