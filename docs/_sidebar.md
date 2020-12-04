@@ -37,6 +37,7 @@
     - [双循环下的新兴消费](/financing/haxxxf-info.md)
     - [这次轮到银行了？](/financing/hbyh-value.md)
     - [基金投顾--大资管时代资产配置新动能](/financing/yfd-tg.md)
+    - [不会教、没时间、教不会，该怎么办？](/financing/visit-jrjy.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
