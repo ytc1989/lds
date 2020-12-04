@@ -76,4 +76,4 @@
 
 > [基金投顾--大资管时代资产配置新动能](/financing/yfd-tg.md)
 
-> [不会教、没时间、教不会，该怎么办？](/financing/yfd-tg.md)
+> [不会教、没时间、教不会，该怎么办？](/financing/visit-jrjy.md)
