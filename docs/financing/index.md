@@ -79,3 +79,5 @@
 > [不会教、没时间、教不会，该怎么办？](/financing/visit-jrjy.md)
 
 > [还记得半年前的新三板精选层基金不？](/financing/xsb-jxjj.md)
+
+> [今年新发基金已超3万亿了](/financing/ha-rxp.md)
