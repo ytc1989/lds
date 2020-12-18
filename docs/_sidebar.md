@@ -89,6 +89,7 @@
     - [生活好了、饭吃得太软](/essay/week20201127.md)
     - [抗冻我不如牵牛花](/essay/week20201204.md)
     - [行情不行、太阳不错](/essay/week20201211.md)
+    - [周期股又嗨了一把](/essay/week20201218.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
