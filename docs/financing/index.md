@@ -83,3 +83,5 @@
 > [今年新发基金已超3万亿了](/financing/ha-rxp.md)
 
 > [年关将近，你年货清单列了些什么？](/financing/hx-spyl.md)
+
+> [反思投资时多问下：有没有更好的选择？](/financing/yfd-swkj.md)
