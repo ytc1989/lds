@@ -94,6 +94,7 @@
     - [行情不行、太阳不错](/essay/week20201211.md)
     - [周期股又嗨了一把](/essay/week20201218.md)
     - [没等来北京的雪，却有新冠](/essay/week20201218.md)
+    - [2020就这么过去了](/essay/week20201231.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
