@@ -86,4 +86,4 @@
 
 > [反思投资时多问下：有没有更好的选择？](/financing/yfd-swkj.md)
 
-> [每次点开都想吐槽的一款投顾产品](/financing/yfd-swkj.md)
+> [每次点开都想吐槽的一款投顾产品](/financing/jstg-mbt2.md)
