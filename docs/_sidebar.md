@@ -100,6 +100,7 @@
     - [指数涨、个股跌，2021指数基金依然是当打之年？](/essay/week20210109.md)
     - [冬日米酒，好像还不错！](/essay/week20210116.md)
     - [核酸检测被捅真的太难受了](/essay/week20210123.md)
+    - [玩了一个月，原来玩的是寂寞](/essay/week20210130.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
