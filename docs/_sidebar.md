@@ -43,6 +43,7 @@
     - [年关将近，你年货清单列了些什么？](/financing/hx-spyl.md)
     - [反思投资时多问下：有没有更好的选择？](/financing/yfd-swkj.md)
     - [每次点开都想吐槽的一款投顾产品](/financing/jstg-mbt2.md)
+    - [除了抱团，我们还可以有哪些选择？](/financing/yfd-yjsdsj.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
