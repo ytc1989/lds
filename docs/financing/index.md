@@ -89,3 +89,5 @@
 > [每次点开都想吐槽的一款投顾产品](/financing/jstg-mbt2.md)
 
 > [除了抱团，我们还可以有哪些选择？](/financing/yfd-yjsdsj.md)
+
+> [信息技术的新潮流：云计算与大数据](/financing/yfd-yjsdsj2.md)
