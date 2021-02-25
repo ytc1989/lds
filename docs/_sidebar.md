@@ -46,6 +46,7 @@
     - [除了抱团，我们还可以有哪些选择？](/financing/yfd-yjsdsj.md)
     - [信息技术的新潮流：云计算与大数据](/financing/yfd-yjsdsj2.md)
     - [科创50将新增200亿以上的流动性](/financing/kc50-lj.md)
+    - [年轻的你愿意在网上买保险吗？](/financing/hz-info.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
