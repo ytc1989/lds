@@ -95,3 +95,5 @@
 > [科创50将新增200亿以上的流动性](/financing/kc50-lj.md)
 
 > [年轻的你愿意在网上买保险吗？](/financing/hz-info.md)
+
+> [四家科创50联接基金费率最大相差4倍](/financing/kc50lj-fl.md)
