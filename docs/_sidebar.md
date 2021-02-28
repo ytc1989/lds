@@ -107,6 +107,7 @@
     - [核酸检测被捅真的太难受了](/essay/week20210123.md)
     - [玩了一个月，原来玩的是寂寞](/essay/week20210130.md)
     - [周末有点春天的感觉了](/essay/week20210206.md)
+    - [牛年貌似开了个不好的头呀！](/essay/week20210227.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
