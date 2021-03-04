@@ -48,6 +48,7 @@
     - [科创50将新增200亿以上的流动性](/financing/kc50-lj.md)
     - [年轻的你愿意在网上买保险吗？](/financing/hz-info.md)
     - [四家科创50联接基金费率最大相差4倍](/financing/kc50lj-fl.md)
+    - [暴跌之后，可以关注下这个板块](/financing/hbyl-info.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

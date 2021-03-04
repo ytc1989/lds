@@ -97,3 +97,5 @@
 > [年轻的你愿意在网上买保险吗？](/financing/hz-info.md)
 
 > [四家科创50联接基金费率最大相差4倍](/financing/kc50lj-fl.md)
+
+> [暴跌之后，可以关注下这个板块](/financing/hbyl-info.md)
