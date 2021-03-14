@@ -112,6 +112,7 @@
     - [周末有点春天的感觉了](/essay/week20210206.md)
     - [牛年貌似开了个不好的头呀！](/essay/week20210227.md)
     - [如果行情不好看，那就看看剧吧](/essay/week20210306.md)
+    - [理财资金转基金过程中仍需加紧配套教育](/essay/week20210313.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
