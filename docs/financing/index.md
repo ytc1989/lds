@@ -103,3 +103,5 @@
 > [很多人开始讨论风格转换了，是吗？](/financing/hx-zz1000.md)
 
 > [给“手痒型”投资者的两个小建议](/financing/yfd-tg2.md)
+
+> [长坡、厚雪、慢变](/financing/zt-ky.md)
