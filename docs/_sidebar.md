@@ -116,6 +116,7 @@
     - [理财资金转基金过程中仍需加紧配套教育](/essay/week20210313.md)
     - [基金销售再冷清一个台阶](/essay/week20210320.md)
     - [周五大涨冲散4天阴跌的颓废](/essay/week20210327.md)
+    - [基金投资的三个阶段](/essay/tz-3.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
