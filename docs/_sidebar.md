@@ -119,6 +119,7 @@
     - [基金投资的三个阶段](/essay/tz-3.md)
     - [酒鬼酒这个涨停是要带领白酒反攻？](/essay/week20210403.md)
     - [白酒换酱油？](/essay/week20210410.md)
+    - [白马祭天周](/essay/week20210417.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
