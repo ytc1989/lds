@@ -85,3 +85,5 @@
 > [白酒换酱油？](/essay/week20210410.md)
 
 > [白马祭天周](/essay/week20210417.md)
+
+> [走进Yalla中东小腾讯](/essay/visit-yalla.md)
