@@ -93,3 +93,5 @@
 > [走进大明国际](/essay/visit-dmgj.md)
 
 > [投资收益不取决于决策难度](/essay/210509.md)
+
+> [ETF真的可以拯救世界？](/essay/etfsave.md)

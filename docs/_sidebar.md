@@ -125,6 +125,7 @@
     - [余额宝规模首次跌破万亿](/essay/week20210424.md)
     - [走进大明国际](/essay/visit-dmgj.md)
     - [投资收益不取决于决策难度](/essay/210509.md)
+    - [ETF真的可以拯救世界？](/essay/etfsave.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
