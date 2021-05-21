@@ -52,6 +52,7 @@
     - [很多人开始讨论风格转换了，是吗？](/financing/hx-zz1000.md)
     - [给“手痒型”投资者的两个小建议](/financing/yfd-tg2.md)
     - [长坡、厚雪、慢变](/financing/zt-ky.md)
+    - [多家基金投顾产品实盘测评](/financing/tg-cp.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
