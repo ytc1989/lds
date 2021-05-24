@@ -107,3 +107,5 @@
 > [长坡、厚雪、慢变](/financing/zt-ky.md)
 
 > [多家基金投顾产品实盘测评](/financing/tg-cp.md)
+
+> [A股再上3500点，还有哪些板块值得下手？](/financing/hbyl-lj.md)
