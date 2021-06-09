@@ -81,6 +81,7 @@
     - [社会财富正在向80后们转移](/life/xhjj-bj.md)
     - [源于一块两毛八菜包的一段思考](/life/cb-dt.md)
     - [停车差一分钟就是多一个小时](/life/p-car.md)
+    - [认真地回答几个问题](/life/talk-etf.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
