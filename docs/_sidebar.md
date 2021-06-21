@@ -84,6 +84,8 @@
     - [停车差一分钟就是多一个小时](/life/p-car.md)
     - [认真地回答几个问题](/life/talk-etf.md)
     - [豆哥体验馆-基金投顾蛋卷实盘体验报告（1）](/life/jjtg-cp1.md)
+    - [记成年后的第一次“落汤鸡”](/life/rain.md)
+    - [豆哥体验馆-基金投顾蛋卷实盘体验报告（2）](/life/jjtg-cp2.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
