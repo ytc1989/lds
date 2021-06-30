@@ -59,6 +59,4 @@
 
 - **众安保险，高性价比**
 
-详情请点击如下链接：
-
-[尊享e生2020](https://cps.qixin18.com/apps/cps/ytc1048058/product/detail?prodId=104092&planId=128590)
+详情请点击如下链接：[尊享e生2020](https://cps.qixin18.com/apps/cps/ytc1048058/product/detail?prodId=104092&planId=128590)
