@@ -88,6 +88,7 @@
     - [记成年后的第一次“落汤鸡”](/life/rain.md)
     - [豆哥体验馆-基金投顾蛋卷实盘体验报告（2）](/life/jjtg-cp2.md)
     - [豆哥体验馆-基金投顾蛋卷实盘体验报告（3）](/life/jjtg-cp3.md)
+    - [ETF上半年前20强](/life/2021top20.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
