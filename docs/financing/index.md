@@ -115,3 +115,5 @@
 > [看张裕如何解“小池子”之困？](/financing/zy-2020.md)
 
 > [当下A股最后一个重要的跨市场宽基指数](/financing/hb-sc50.md)
+
+> [地产不行了，那物业指数可还行？](/financing/wyzs.md)
