@@ -117,3 +117,5 @@
 > [当下A股最后一个重要的跨市场宽基指数](/financing/hb-sc50.md)
 
 > [地产不行了，那物业指数可还行？](/financing/wyzs.md)
+
+> [股市天雷滚滚，哪边可以躲个雨？](/financing/jmyz-info.md)

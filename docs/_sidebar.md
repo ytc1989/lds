@@ -58,6 +58,7 @@
     - [看张裕如何解“小池子”之困？](/financing/zy-2020.md)
     - [当下A股最后一个重要的跨市场宽基指数](/financing/hb-sc50.md)
     - [地产不行了，那物业指数可还行？](/financing/wyzs.md)
+    - [股市天雷滚滚，哪边可以躲个雨？](/financing/jmyz-info.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
