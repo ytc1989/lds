@@ -121,3 +121,5 @@
 > [股市天雷滚滚，哪边可以躲个雨？](/financing/jmyz-info.md)
 
 > [11家创业板战配基金收益都不错，除了它](/financing/cyb-zp.md)
+
+> [又一家申报了费城半导体基金](/financing/czjw-new.md)
