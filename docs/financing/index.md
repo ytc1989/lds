@@ -123,3 +123,5 @@
 > [11家创业板战配基金收益都不错，除了它](/financing/cyb-zp.md)
 
 > [又一家申报了费城半导体基金](/financing/czjw-new.md)
+
+> [“硬科技”的发展根基--新材料](/financing/hb-xcl.md)

@@ -61,6 +61,7 @@
     - [股市天雷滚滚，哪边可以躲个雨？](/financing/jmyz-info.md)
     - [11家创业板战配基金收益都不错，除了它](/financing/cyb-zp.md)
     - [又一家申报了费城半导体基金](/financing/czjw-new.md)
+    - [“硬科技”的发展根基--新材料](/financing/hb-xcl.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
