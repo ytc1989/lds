@@ -64,6 +64,7 @@
     - [“硬科技”的发展根基--新材料](/financing/hb-xcl.md)
     - [二季度基金代销机构规模排名已出](/financing/jjdx-202102th.md)
     - [16只双创50指数联接基金周一齐发](/financing/sc50-ljsf.md)
+    - [卷！宗庆后这把年纪仍获基金从业资格](/financing/whh-z.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
