@@ -66,6 +66,7 @@
     - [16只双创50指数联接基金周一齐发](/financing/sc50-ljsf.md)
     - [卷！宗庆后这把年纪仍获基金从业资格](/financing/whh-z.md)
     - [每次发帖说完券商就大涨](/financing/qsdz-ssfg.md)
+    - [港股深度回调，有什么机会值得我们多看几眼？](/financing/hx-hssw.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
