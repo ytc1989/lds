@@ -106,6 +106,7 @@
     - [豆哥体验馆-基金投顾蛋卷实盘体验报告（6）](/life/jjtg-cp6.md)
     - [豆哥体验馆-基金投顾蛋卷实盘体验报告（7）](/life/jjtg-cp7.md)
     - [豆哥体验馆-基金投顾蛋卷实盘体验报告（8）](/life/jjtg-cp8.md)
+    - [食品饮料行业ETF延期募集2次](/life/spyl-yq.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
