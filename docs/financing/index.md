@@ -137,3 +137,5 @@
 > [港股深度回调，有什么机会值得我们多看几眼？](/financing/hx-hssw.md)
 
 > [客观、公正的帮你全市场甄选基金](/financing/yfd-tg3.md)
+
+> [持仓高度一致的基金经理发新品要买吗？](/financing/dfh-lj.md)
