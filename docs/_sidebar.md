@@ -162,6 +162,7 @@
     - [周五券商暴涨，下周能否继续？](/essay/week20210515.md)
     - [那些“碳中和”系列指数基金们](/essay/tzh.md)
     - [估值高的ETF也可以多看两眼](/essay/etf-gz.md)
+    - [你们全家都是“大V”](/essay/jgxf.md)
 - [**文摘 - digest**](digest/index.md)
     - [杠杆发债的鸡毛](digest/leverage-bond-feather.md)
     - [走到人生半山腰——35 岁懂得的那些小事](digest/35-years.md)
