@@ -139,3 +139,6 @@
 > [客观、公正的帮你全市场甄选基金](/financing/yfd-tg3.md)
 
 > [持仓高度一致的基金经理发新品要买吗？](/financing/dfh-lj.md)
+
+> [震荡市里更要走好“可持续”的路](/financing/hb-kcxfz.md)
+
