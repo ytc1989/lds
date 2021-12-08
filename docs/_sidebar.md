@@ -70,6 +70,7 @@
     - [客观、公正的帮你全市场甄选基金](/financing/yfd-tg3.md)
     - [持仓高度一致的基金经理发新品要买吗？](/financing/dfh-lj.md)
     - [震荡市里更要走好“可持续”的路](/financing/hb-kcxfz.md)
+    - [清晰赛道规划，抓准“银发经济”](/financing/visit-yyyl.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
