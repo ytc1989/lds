@@ -144,3 +144,5 @@
 
 > [清晰赛道规划，抓准“银发经济”](/financing/visit-yyyl.md)
 
+> [稳增长信号之下，2022银行板块有望“闻风起舞”](/financing/hbyh-2.md)
+
