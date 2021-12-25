@@ -146,3 +146,5 @@
 
 > [稳增长信号之下，2022银行板块有望“闻风起舞”](/financing/hbyh-2.md)
 
+> [记录一次REITs基金场外转场内流程](/financing/reits-change.md)
+
