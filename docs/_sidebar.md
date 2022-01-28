@@ -75,6 +75,7 @@
     - [记录一次REITs基金场外转场内流程](/financing/reits-change.md)
     - [2022年券商能否纠正估值与业绩的错配？](/financing/2022qs.md)
     - [对基金投顾的几个近期观察](/financing/tggc.md)
+    - [“创新未来”们还有未来吗？](/financing/cxwl-last.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

@@ -152,3 +152,5 @@
 
 > [对基金投顾的几个近期观察](/financing/tggc.md)
 
+> [“创新未来”们还有未来吗？](/financing/cxwl-last.md)
+
