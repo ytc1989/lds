@@ -76,6 +76,7 @@
     - [2022年券商能否纠正估值与业绩的错配？](/financing/2022qs.md)
     - [对基金投顾的几个近期观察](/financing/tggc.md)
     - [“创新未来”们还有未来吗？](/financing/cxwl-last.md)
+    - [大过年的，买点固收+吧](/financing/yfd-wjsy.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

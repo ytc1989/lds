@@ -154,3 +154,5 @@
 
 > [“创新未来”们还有未来吗？](/financing/cxwl-last.md)
 
+> [大过年的，买点固收+吧](/financing/yfd-wjsy.md)
+
