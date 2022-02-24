@@ -77,6 +77,7 @@
     - [对基金投顾的几个近期观察](/financing/tggc.md)
     - [“创新未来”们还有未来吗？](/financing/cxwl-last.md)
     - [大过年的，买点固收+吧](/financing/yfd-wjsy.md)
+    - [宁德时代跌了，你们才想起金融地产？](/financing/jrdc-cp.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

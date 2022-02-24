@@ -156,3 +156,5 @@
 
 > [大过年的，买点固收+吧](/financing/yfd-wjsy.md)
 
+> [宁德时代跌了，你们才想起金融地产？](/financing/jrdc-cp.md)
+
