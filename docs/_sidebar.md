@@ -120,6 +120,7 @@
     - [从北京一路睡回上海](/life/2021-1001.md)
     - [冬日炉火](/life/fire.md)
     - [你对双11还有感情吗？](/life/double11.md)
+    - [格局太小的我终究没能成为招行的金葵花](/life/zh-jkh.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
