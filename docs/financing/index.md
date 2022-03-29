@@ -158,3 +158,5 @@
 
 > [宁德时代跌了，你们才想起金融地产？](/financing/jrdc-cp.md)
 
+> [我被宣称历史回撤仅0.25%的债基坑了](/financing/jrdc-cp.md)
+
