@@ -160,3 +160,5 @@
 
 > [我被宣称历史回撤仅0.25%的债基坑了](/financing/jrdc-cp.md)
 
+> [“跌麻了”才知道控回撤的好](/financing/na_xdl.md)
+
