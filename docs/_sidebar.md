@@ -80,6 +80,7 @@
     - [宁德时代跌了，你们才想起金融地产？](/financing/jrdc-cp.md)
     - [我被宣称历史回撤仅0.25%的债基坑了](/financing/thzl.md)
     - [“跌麻了”才知道控回撤的好](/financing/na_xdl.md)
+    - [读五封创新未来基金的信](/financing/cxwl_over.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

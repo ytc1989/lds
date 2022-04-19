@@ -162,3 +162,5 @@
 
 > [“跌麻了”才知道控回撤的好](/financing/na_xdl.md)
 
+> [读五封创新未来基金的信](/financing/cxwl_over.md)
+
