@@ -82,6 +82,8 @@
     - [“跌麻了”才知道控回撤的好](/financing/na_xdl.md)
     - [读五封创新未来基金的信](/financing/cxwl_over.md)
     - [ETF行业发展年度报告整理](/financing/etf-2021.md)
+    - [听说“菜狗”十大重仓全换了？！](/financing/na-cxqd.md)
+    - [32万亿公募行业将推进可持续高质量发展](/financing/yfd-gzljjhy.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

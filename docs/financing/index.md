@@ -166,3 +166,8 @@
 
 > [ETF行业发展年度报告整理](/financing/etf-2021.md)
 
+> [听说“菜狗”十大重仓全换了？！](/financing/na-cxqd.md)
+
+> [32万亿公募行业将推进可持续高质量发展](/financing/yfd-gzljjhy.md)
+
+
