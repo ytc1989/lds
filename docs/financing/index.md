@@ -172,4 +172,6 @@
 
 > [宽基ETF是不是也能来个供给侧改革？](/financing/300_500etf.md)
 
+> [今年增配稳健型资产可能会好受些](/financing/hbay.md)
+
 
