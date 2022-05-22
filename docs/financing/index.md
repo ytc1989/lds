@@ -174,4 +174,6 @@
 
 > [今年增配稳健型资产可能会好受些](/financing/hbay.md)
 
+> [高股息是对散户更友好的选择](/financing/zz-ggx.md)
+
 
