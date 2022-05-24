@@ -176,4 +176,6 @@
 
 > [高股息是对散户更友好的选择](/financing/zz-ggx.md)
 
+> [C类指基仿“T+0”薅某宝羊毛](/financing/th-hkym.md)
+
 

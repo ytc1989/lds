@@ -87,6 +87,7 @@
     - [宽基ETF是不是也能来个供给侧改革？](/financing/300_500etf.md)
     - [今年增配稳健型资产可能会好受些](/financing/hbay.md)
     - [高股息是对散户更友好的选择](/financing/zz-ggx.md)
+    - [C类指基仿“T+0”薅某宝羊毛](/financing/th-hkym.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
