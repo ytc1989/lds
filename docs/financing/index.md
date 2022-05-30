@@ -178,4 +178,6 @@
 
 > [C类指基仿“T+0”薅某宝羊毛](/financing/th-hkym.md)
 
+> [ETF玩条件单也得注意别踩坑](/financing/hbzq-yczz.md)
+
 
