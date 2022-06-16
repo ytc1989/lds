@@ -180,4 +180,6 @@
 
 > [ETF玩条件单也得注意别踩坑](/financing/hbzq-yczz.md)
 
+> [小伙伴说：就算轮，也该轮到金融了吧？](/financing/fzfb-bx.md)
+
 
