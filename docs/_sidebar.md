@@ -91,6 +91,7 @@
     - [ETF玩条件单也得注意别踩坑](/financing/hbzq-yczz.md)
     - [小伙伴说：就算轮，也该轮到金融了吧？](/financing/fzfb-bx.md)
     - [5只首批增强ETF现在如何了？](/financing/zqetf.md)
+    - [待清盘基金竟已“仰卧起坐”半年多](/financing/zy100-qs.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
