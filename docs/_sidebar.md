@@ -93,6 +93,7 @@
     - [5只首批增强ETF现在如何了？](/financing/zqetf.md)
     - [待清盘基金竟已“仰卧起坐”半年多](/financing/zy100-qs.md)
     - [两年前的创业板定开基金将陆续到期](/financing/cyb-2ydq.md)
+    - [A股核心资产焕发新生](/financing/hb-zz100.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
