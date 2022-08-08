@@ -190,5 +190,7 @@
 
 > [A股核心资产焕发新生](/financing/hb-zz100.md)
 
+> [说完创业板，再来说说科创板定开基金](/financing/kcb-2ydq.md)
+
 
 
