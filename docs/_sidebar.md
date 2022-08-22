@@ -95,6 +95,7 @@
     - [两年前的创业板定开基金将陆续到期](/financing/cyb-2ydq.md)
     - [A股核心资产焕发新生](/financing/hb-zz100.md)
     - [说完创业板，再来说说科创板定开基金](/financing/kcb-2ydq.md)
+    - [南方基金 钟赟 -- 挖掘好行业、捕获超收益](/financing/nf-zy.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

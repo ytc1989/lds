@@ -192,5 +192,7 @@
 
 > [说完创业板，再来说说科创板定开基金](/financing/kcb-2ydq.md)
 
+> [南方基金 钟赟 -- 挖掘好行业、捕获超收益](/financing/nf-zy.md)
+
 
 
