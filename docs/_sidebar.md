@@ -97,6 +97,7 @@
     - [说完创业板，再来说说科创板定开基金](/financing/kcb-2ydq.md)
     - [宝岛被围后，我重新梳理了下军工](/financing/th-gdzd.md)
     - [南方基金 钟赟 -- 挖掘好行业、捕获超收益](/financing/nf-zy.md)
+    - [中证1000很对量化模型的胃口](/financing/wj-zz1000zq.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

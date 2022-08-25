@@ -196,5 +196,6 @@
 
 > [南方基金 钟赟 -- 挖掘好行业、捕获超收益](/financing/nf-zy.md)
 
+> [中证1000很对量化模型的胃口](/financing/wj-zz1000zq.md)
 
 
