@@ -198,4 +198,6 @@
 
 > [中证1000很对量化模型的胃口](/financing/wj-zz1000zq.md)
 
+> [一个让人爱不起来的交易所](/financing/bjs-8.md)
+
 
