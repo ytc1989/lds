@@ -145,6 +145,7 @@
     - [同业存单基金还是要按需购买](/life/tycd.md)
     - [写在上海的儿童节前（图才是重点）](/life/sh61.md)
     - [这应该是上海有史以来最艰难的开学季了](/life/kxwy.md)
+    - [收盘后的一次闲散骑行](/life/xhc-ls.md)
 - [**杂文 - essay**](essay/index.md)
     - [老豆-Y 计划 2019 版（常规汇报 001）](essay/ld-yplan2019-001.md)
     - [老豆-Y计划2019版（常规汇报 002）](essay/ld-yplan2019-002.md)
