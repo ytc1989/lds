@@ -200,4 +200,4 @@
 
 > [一个让人爱不起来的交易所](/financing/bjs-8.md)
 
-
+> [赚的是不是运气的钱？](/financing/qg-zy.md)
