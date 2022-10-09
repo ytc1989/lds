@@ -203,3 +203,5 @@
 > [赚的是不是运气的钱？](/financing/qg-zy.md)
 
 > [四季度会是新起点？](/financing/dfjj-jq.md)
+
+> [该如何面对“科技与狠活”？](/financing/htjy.md)

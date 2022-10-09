@@ -101,6 +101,7 @@
     - [一个让人爱不起来的交易所](/financing/bjs-8.md)
     - [赚的是不是运气的钱？](/financing/qg-zy.md)
     - [四季度会是新起点？](/financing/dfjj-jq.md)
+    - [该如何面对“科技与狠活”？](/financing/htjy.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
