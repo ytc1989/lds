@@ -91,3 +91,5 @@
 > [这应该是上海有史以来最艰难的开学季了](/life/kxwy.md)
 
 > [收盘后的一次闲散骑行](/life/xhc-ls.md)
+
+> [今天身在上海的你屯水了吗？](/life/shtunshui.md)
