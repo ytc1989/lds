@@ -205,3 +205,5 @@
 > [四季度会是新起点？](/financing/dfjj-jq.md)
 
 > [该如何面对“科技与狠活”？](/financing/htjy.md)
+
+> [三季报恐怖故事：站在全球资本配置的角度投资港股](/financing/htbr-hq.md)
