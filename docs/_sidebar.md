@@ -103,6 +103,7 @@
     - [四季度会是新起点？](/financing/dfjj-jq.md)
     - [该如何面对“科技与狠活”？](/financing/htjy.md)
     - [三季报恐怖故事：站在全球资本配置的角度投资港股](/financing/htbr-hq.md)
+    - [国企借道基金变相减持后，四川ETF终止上市](/financing/hx-sc.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)
