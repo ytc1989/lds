@@ -211,3 +211,5 @@
 > [国企借道基金变相减持后，四川ETF终止上市](/financing/hx-sc.md)
 
 > [感觉医药又可以了](/financing/hx-yy.md)
+
+> [退潮找泳裤，债基风暴下看谁更耐跌！](/financing/th-hz.md)
