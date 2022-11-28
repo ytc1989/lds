@@ -213,3 +213,5 @@
 > [感觉医药又可以了](/financing/hx-yy.md)
 
 > [退潮找泳裤，债基风暴下看谁更耐跌！](/financing/th-hz.md)
+
+> [投资也能用“唯物辩证法”？](/financing/na-yk.md)
