@@ -215,3 +215,5 @@
 > [退潮找泳裤，债基风暴下看谁更耐跌！](/financing/th-hz.md)
 
 > [投资也能用“唯物辩证法”？](/financing/na-yk.md)
+
+> [关注中证1000，聚焦小盘成长](/financing/yfd-zz1000.md)
