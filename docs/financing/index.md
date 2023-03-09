@@ -217,3 +217,5 @@
 > [投资也能用“唯物辩证法”？](/financing/na-yk.md)
 
 > [关注中证1000，聚焦小盘成长](/financing/yfd-zz1000.md)
+
+> [做好行业轮动是需要勇气和实力的](/financing/hx-hyzx.md)
