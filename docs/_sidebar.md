@@ -109,6 +109,7 @@
     - [投资也能用“唯物辩证法”？](/financing/na-yk.md)
     - [关注中证1000，聚焦小盘成长](/financing/yfd-zz1000.md)
     - [做好行业轮动是需要勇气和实力的](/financing/hx-hyzx.md)
+    - [复苏有点“弱”，来点“攻守兼备”](/financing/yfd-zzhl-2.md)
 - [**生活 - life**](life/index.md)
     - [富不过三代？！](life/gamble.md)
     - [遇到这样的事，我竟会如此的惊慌失措](life/lost-electric.md)

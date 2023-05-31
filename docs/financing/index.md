@@ -219,3 +219,5 @@
 > [关注中证1000，聚焦小盘成长](/financing/yfd-zz1000.md)
 
 > [做好行业轮动是需要勇气和实力的](/financing/hx-hyzx.md)
+
+> [复苏有点“弱”，来点“攻守兼备”](/financing/yfd-zzhl-2.md)
